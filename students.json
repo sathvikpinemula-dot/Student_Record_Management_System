@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "Ravi",
+        "age": "20",
+        "course": "Python",
+        "email": "ravi@example.com"
+    },
+    {
+        "id": "2",
+        "name": "Anita",
+        "age": "21",
+        "course": "Data Science",
+        "email": "anita@example.com"
+    },
+    {
+        "id": "3",
+        "name": "Kiran",
+        "age": "22",
+        "course": "Computer Science",
+        "email": "kiran@example.com"
+    },
+    {
+        "id": "4",
+        "name": "sathvik",
+        "age": "19",
+        "course": "python",
+        "email": "sahcv"
+    },
+    {
+        "id": "5",
+        "name": "sathvik",
+        "age": "19",
+        "course": "python",
+        "email": "sathvik@exmaple.com"
+    }
+]
